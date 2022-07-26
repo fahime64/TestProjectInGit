@@ -2,9 +2,14 @@ allow: *
 
 change robots with vs
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 change whith master -step4
 change whith master -step5
 =======
 change with develop - step 4
+>>>>>>> develop
+=======
+
+change with develop - step 5
 >>>>>>> develop
